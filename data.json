@@ -43,13 +43,15 @@
         "name": "QA1",
         "qq": "412921950",
         "qq_openid": "67268719BFFCC46FBD8199FD90674B2E",
-        "wx_openid": "oEh7V5N5RTRj7i7d91Zj1GGL88Yo"
+        "wx_openid": "oEh7V5N5RTRj7i7d91Zj1GGL88Yo",
+        "wx_openid_ydlh": "oziys5Y75IEPYMn--YeesyuB3B-o"
     },
     {
         "name": "QA2",
         "qq": "502104254",
         "qq_openid": "CA6582B77B1AE1DBE3A4726AAB0A695A",
-        "wx_openid": "oEh7V5GHvFVZUnqw3RDnISIIwYfc"
+        "wx_openid": "oEh7V5GHvFVZUnqw3RDnISIIwYfc",
+        "wx_openid_ydlh": ""
     },
     {
         "name": "AMY1",
@@ -60,7 +62,8 @@
     {
         "name": "AMY2",
         "qq": "2461927391",
-        "qq_openid": "12BFE95DF8DBF8515E372616E86C37B2"
+        "qq_openid": "12BFE95DF8DBF8515E372616E86C37B2",
+        "wx_openid_ydlh": "oziys5fhxB2ZRSGh9Rbfkyv3Qf4E"
     },
     {
         "name": "KK1",
